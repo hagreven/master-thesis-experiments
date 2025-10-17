@@ -1,0 +1,2 @@
+# Ignore data folders at any depth
+**/data/
